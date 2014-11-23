@@ -1,0 +1,13 @@
+50-PIN-CENTRONICS-FFEMALE||#50-PIN-CENTRONICS-F=50||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+50-PIN-CENTRONICS-MMALE||#50-PIN-CENTRONICS-M=50||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+ARDUINO_SERIAL_PROGRAMLOCK||#1X06_LOCK=6||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+ARDUINO_SERIAL_PROGRAMLONGPADS||#1X06_LONGPADS=6||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+ARDUINO_SERIAL_PROGRAMPTH||#1X06=6||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+ARDUINO_SERIAL_PROGRAMPTH-KIT||#1X06-KIT=6||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+ARDUINO_SERIAL_PROGRAMRA_LOCK||#MOLEX-1X6-RA_LOCK=6||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+ARDUINO_SERIAL_PROGRAMSMD||#1X06-SMD=8||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+ATARI_CONNECTOR||#ATARI_CONNECTOR=9||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+ATX24RH||#ATX24_RIGHT_ANGLE=26||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+AUDIO-JACK1:1||#STEREOJACK2.5MM=7||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+AUDIO-JACK2.5MM||#STEREOJACK2.5MM_STEREOJACK2.5MM=5||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+AUDIO-JACKHOLESONLY

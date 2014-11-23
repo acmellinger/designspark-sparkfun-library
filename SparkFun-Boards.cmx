@@ -1,0 +1,12 @@
+ARDUINO-MEGAFULL||#ARDUINO_MEGA=88||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+ARDUINO-MEGAPRO||#ARDUINO_MEGA-PRO-3.3V=88||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+ARDUINO-MEGAPRO-5V||#ARDUINO_MEGA-PRO-5V=88||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+ARDUINO_MINI||#ARDUINO_MINI=24||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+ARDUINO_PRO_MICRO||#ARDUINO_PRO_MICRO=24||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+ARDUINO_PRO_MINI||#ARDUINO_PRO_MINI=34||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+ARDUINO_R3_SHIELD||#UNO_R3_SHIELD=32||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+ARDUINO_R3_SHIELDNOLABELS||#UNO_R3_SHIELD_NOLABELS=32||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+ARDUINO_SHIELDLABEL||#DUEMILANOVE_SHIELD=30||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+ARDUINO_SHIELDLONGPADS||#DUEMILANOVE_SHIELD_LONGPADS=30||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+ARDUINO_SHIELDNOHOLES||#DUEMILANOVE_SHIELD_NOHOLES=28||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+ARDUINO_SHIELDNOHOLESORLABELS
